@@ -14,7 +14,7 @@ Follow these instructions to get the web application running on localhost port 8
 
    ```bash
    git clone https://github.com/matthew-sawatzky/react-coding-assignment14
-   cd sawatzky_matthew_ui_garden_build_checks
+   cd sawatzky_matthew_final_site
    ```
 
 2. Build the Docker image:
